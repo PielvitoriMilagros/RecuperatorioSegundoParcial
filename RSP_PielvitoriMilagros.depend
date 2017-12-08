@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1512693674 source:d:\rsp_pielvitorimilagros\rsp_pielvitorimilagros\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayList.h"
+
+1512692979 d:\rsp_pielvitorimilagros\rsp_pielvitorimilagros\arraylist.h
+
+1512695557 source:d:\rsp_pielvitorimilagros\rsp_pielvitorimilagros\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1512694937 d:\rsp_pielvitorimilagros\rsp_pielvitorimilagros\funciones.h
+	"ArrayList.h"
+
+1512693801 source:d:\rsp_pielvitorimilagros\rsp_pielvitorimilagros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
